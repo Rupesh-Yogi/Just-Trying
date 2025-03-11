@@ -1,2 +1,2 @@
-# Just-Trying
+Just-Trying
 I am just learning git.
