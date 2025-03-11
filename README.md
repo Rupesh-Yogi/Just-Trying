@@ -1,4 +1,3 @@
 # Just-Trying
-I am just learning git.
-# Author- Rupesh Yogi
+I am just learning git. Author- Rupesh Yogi
 
